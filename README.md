@@ -6,7 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of agsim is to …
+The goal of agsim is to simulate business processes at recruitment
+agency.
 
 ## Installation
 
