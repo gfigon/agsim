@@ -2,3 +2,4 @@
 
 export(sim_jobs_nr)
 export(sim_monthly_eff)
+export(sim_nr_of_FTE_per_job)

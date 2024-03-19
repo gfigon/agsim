@@ -6,8 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of agsim is to simulate business processes at recruitment
-agency.
+This is a toy package that helps simulate some business processes at
+recruitment company.
 
 ## Installation
 
